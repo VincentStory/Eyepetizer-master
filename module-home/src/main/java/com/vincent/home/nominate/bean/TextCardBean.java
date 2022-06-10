@@ -10,7 +10,7 @@ import java.io.Serializable;
  * <p>
  *
  * @author wangwenbo
- * @since 2020-02-11
+ * @since
  */
 public class TextCardBean implements Serializable {
 

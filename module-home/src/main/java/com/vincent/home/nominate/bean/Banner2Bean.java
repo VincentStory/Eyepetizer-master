@@ -10,7 +10,7 @@ import java.util.List;
  * <p>
  *
  * @author wangwenbo
- * @since 2020-02-11
+ * @since
  */
 public class Banner2Bean implements Serializable {
 

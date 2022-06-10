@@ -12,7 +12,7 @@ import com.drz.common.contract.BaseCustomViewModel;
  * <p>
  *
  * @author wangwenbo
- * @since 2020-02-11
+ * @since
  */
 public interface INominateView extends IBasePagingView
 {
