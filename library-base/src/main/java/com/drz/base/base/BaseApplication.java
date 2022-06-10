@@ -17,7 +17,7 @@ import java.util.List;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-25
  */
 public class BaseApplication extends Application

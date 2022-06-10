@@ -22,7 +22,7 @@ import io.reactivex.disposables.Disposable;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-19
  */
 public class AttentionModel<T> extends BasePagingModel<T> {

@@ -9,7 +9,7 @@ import com.drz.base.R;
  * 类描述: 错误页面
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public class ErrorCallback extends Callback

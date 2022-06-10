@@ -12,7 +12,7 @@ import com.drz.base.R;
  * 类描述: 骨架屏
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public class ShimmerCallback extends Callback

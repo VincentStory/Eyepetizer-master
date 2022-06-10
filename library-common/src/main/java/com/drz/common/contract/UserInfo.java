@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
  * 类描述: 用户信息
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public class UserInfo implements Serializable

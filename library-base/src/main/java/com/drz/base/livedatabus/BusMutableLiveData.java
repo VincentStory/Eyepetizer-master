@@ -17,7 +17,7 @@ import java.util.Map;
  * 类描述: 扩展liveData hook源码拦截实现非粘性事件
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-07
  */
 public class BusMutableLiveData<T> extends MutableLiveData<T> {

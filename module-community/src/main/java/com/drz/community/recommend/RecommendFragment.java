@@ -21,7 +21,7 @@ import androidx.recyclerview.widget.StaggeredGridLayoutManager;
  * 类描述: 社区-推荐
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-16
  */
 public class RecommendFragment

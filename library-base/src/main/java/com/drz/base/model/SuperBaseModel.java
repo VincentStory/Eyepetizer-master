@@ -19,7 +19,7 @@ import io.reactivex.disposables.Disposable;
  * 类描述: 基类抽象model
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public abstract class SuperBaseModel<T>

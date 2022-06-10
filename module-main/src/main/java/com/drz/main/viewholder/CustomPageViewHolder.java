@@ -14,7 +14,7 @@ import com.zhpan.bannerview.holder.ViewHolder;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-28
  */
 public class CustomPageViewHolder implements ViewHolder<CustomBean> {

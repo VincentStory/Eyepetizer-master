@@ -33,7 +33,7 @@ import java.util.List;
  * 类描述: 配置懒加载的fragment(支持fragment嵌套懒加载)
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-28
  */
 public  abstract class MvvmLazyFragment<V extends ViewDataBinding,VM extends IMvvmBaseViewModel> extends Fragment implements IBaseView {

@@ -26,7 +26,7 @@ import androidx.recyclerview.widget.StaggeredGridLayoutManager;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-17
  */
 public class SquareCardProvider extends BaseItemProvider<BaseCustomViewModel> {

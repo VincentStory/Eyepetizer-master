@@ -19,7 +19,7 @@ import com.orhanobut.logger.Logger;
  * 类描述: 登录状态拦截器
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-29
  */
 @Interceptor(priority = 8)

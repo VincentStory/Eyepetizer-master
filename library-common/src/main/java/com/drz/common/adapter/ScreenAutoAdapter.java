@@ -22,7 +22,7 @@ import androidx.annotation.RequiresApi;
  *
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-21
  */
 public class ScreenAutoAdapter

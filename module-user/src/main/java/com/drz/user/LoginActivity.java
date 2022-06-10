@@ -17,7 +17,7 @@ import com.drz.common.services.config.ServicesConfig;
 import com.drz.user.databinding.UserActivityLoginBinding;
 
 /**
- * @author darryrzhoong
+ * @author wangwenbo
  */
 @Route(path = RouterActivityPath.User.PAGER_LOGIN)
 public class LoginActivity extends AppCompatActivity {

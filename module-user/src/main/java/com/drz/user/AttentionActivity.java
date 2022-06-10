@@ -14,7 +14,7 @@ import com.drz.common.router.RouterActivityPath;
  * 类描述: 关注页面
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-29
  */
 @Route(path = RouterActivityPath.User.PAGER_ATTENTION)

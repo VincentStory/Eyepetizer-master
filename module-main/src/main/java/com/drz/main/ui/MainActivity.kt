@@ -49,7 +49,7 @@ class MainActivity :
     }
 
     private fun initView() {
-        mNavigationController = viewDataBinding?.bottomView?.material()
+       mNavigationController = viewDataBinding?.bottomView?.material()
             ?.addItem(
                 R.drawable.main_home,
                 "首页",
@@ -75,15 +75,15 @@ class MainActivity :
             )
             ?.enableAnimateLayoutChanges()
             ?.build()
-        mNavigationController!!.setHasMessage(2, true)
-        mNavigationController!!.setMessageNumber(3, 6)
+        mNavigationController?.setHasMessage(2, true)
+        mNavigationController?.setMessageNumber(3, 6)
         adapter = MainPageAdapter(
             supportFragmentManager,
             FragmentPagerAdapter.BEHAVIOR_SET_USER_VISIBLE_HINT
         )
-        viewDataBinding?.cvContentView?.setOffscreenPageLimit(1)
-        viewDataBinding?.cvContentView?.setAdapter(adapter)
-        viewDataBinding?.cvContentView?.let { mNavigationController!!.setupWithViewPager(it) }
+        viewDataBinding?.cvContentView?.offscreenPageLimit = 1
+        viewDataBinding?.cvContentView?.adapter = adapter
+        viewDataBinding?.cvContentView?.let { mNavigationController?.setupWithViewPager(it) }
     }
 
     private fun initFragment() {

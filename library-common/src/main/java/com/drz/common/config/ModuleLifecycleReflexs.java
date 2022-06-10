@@ -6,7 +6,7 @@ package com.drz.common.config;
  * 类描述: 组件生命周期初始化类的类目管理者,在这里注册需要初始化的组件,通过反射动态调用各个组件的初始化方法
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-25
  */
 public class ModuleLifecycleReflexs

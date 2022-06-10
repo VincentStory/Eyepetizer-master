@@ -19,7 +19,7 @@ import java.util.Map;
  * 类描述: 腾讯MMKV序列化存储工具类
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public class MmkvHelper {

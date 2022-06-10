@@ -10,7 +10,7 @@ import java.util.Stack;
  * 类描述: Activity的堆栈管理者
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-25
  */
 public class AppManager

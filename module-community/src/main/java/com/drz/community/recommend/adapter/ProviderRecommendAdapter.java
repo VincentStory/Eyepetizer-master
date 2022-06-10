@@ -17,7 +17,7 @@ import com.drz.community.recommend.bean.viewmodel.CloumnsCardViewModel;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-17
  */
 public class ProviderRecommendAdapter

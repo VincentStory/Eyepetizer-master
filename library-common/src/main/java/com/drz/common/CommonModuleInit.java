@@ -16,7 +16,7 @@ import com.tencent.mmkv.MMKV;
  * 类描述: 通用库 & 基础库 自身初始化操作
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-25
  */
 public class CommonModuleInit implements IModuleInit

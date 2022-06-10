@@ -6,7 +6,7 @@ package com.drz.base.model;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public interface IPagingModelListener<T> extends IBaseModelListener

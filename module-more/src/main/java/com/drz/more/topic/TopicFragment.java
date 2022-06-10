@@ -22,7 +22,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
  * 类描述: 话题广场
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-23
  */
 public class TopicFragment

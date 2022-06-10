@@ -33,7 +33,7 @@ import java.util.logging.Logger;
  * 类描述: 自定义的带封面的video
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-20
  */
 public class CoverVideoPlayerView extends StandardGSYVideoPlayer

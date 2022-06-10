@@ -46,7 +46,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
  * 类描述: 视频详情页 & 播放页
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-20
  */
 @Route(path = RouterActivityPath.Video.PAGER_VIDEO)

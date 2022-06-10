@@ -18,7 +18,7 @@ import androidx.recyclerview.widget.RecyclerView;
  * 类描述: 计算列表滑动、自动播放的帮助类
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-20
  */
 public class ScrollCalculatorHelper

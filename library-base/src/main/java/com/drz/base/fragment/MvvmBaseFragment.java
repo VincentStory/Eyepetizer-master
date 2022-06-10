@@ -30,7 +30,7 @@ import com.drz.base.viewmodel.IMvvmBaseViewModel;
  * 类描述: 基类fragment
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public abstract class MvvmBaseFragment<V extends ViewDataBinding, VM extends IMvvmBaseViewModel>

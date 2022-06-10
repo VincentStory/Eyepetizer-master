@@ -14,7 +14,7 @@ import androidx.viewpager.widget.ViewPager;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-26
  */
 public class CustomNoTouchViewPager extends ViewPager {

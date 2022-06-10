@@ -24,7 +24,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-23
  */
 public class MessageFragment extends

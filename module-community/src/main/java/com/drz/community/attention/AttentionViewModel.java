@@ -14,7 +14,7 @@ import java.util.ArrayList;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-19
  */
 public class AttentionViewModel

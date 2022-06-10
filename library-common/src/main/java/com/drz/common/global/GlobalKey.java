@@ -6,7 +6,7 @@ package com.drz.common.global;
  * 类描述: 全局的存储key,单个组件的可以单个组件自行在各自的组件中定义
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-25
  */
 public class GlobalKey

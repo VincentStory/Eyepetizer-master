@@ -11,7 +11,7 @@ import android.view.View;
  * 类描述: 播放帮助类
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-21
  */
 public class VideoPlayerHelper {

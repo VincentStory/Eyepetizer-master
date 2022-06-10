@@ -23,7 +23,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
  * 类描述: 主题内容 二级fragment
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-23
  */
 public class ThemesContentFragment extends

@@ -6,7 +6,7 @@
     <data>
    <variable
        name="viewModel"
-       type="com.drz.home.nominate.bean.viewmodel.SingleTitleViewModel" />
+       type="com.vincent.home.nominate.bean.viewmodel.SingleTitleViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

@@ -23,7 +23,7 @@ import io.reactivex.disposables.Disposable;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-23
  */
 public class TopicModel<T> extends BasePagingModel<T>

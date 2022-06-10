@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.RecyclerView;
  * 类描述: recyclerView item间距设置 & 分割线绘制 实现类
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-16
  */
 public class RecyclerItemDecoration extends RecyclerView.ItemDecoration

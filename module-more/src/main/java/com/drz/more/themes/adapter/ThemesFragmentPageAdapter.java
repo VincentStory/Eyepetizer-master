@@ -19,7 +19,7 @@ import androidx.fragment.app.FragmentStatePagerAdapter;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-16
  */
 public class ThemesFragmentPageAdapter extends FragmentStatePagerAdapter {

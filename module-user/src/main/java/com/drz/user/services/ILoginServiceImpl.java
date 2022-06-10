@@ -15,7 +15,7 @@ import com.drz.common.services.config.ServicesConfig;
  * 类描述: 用户登录信息服务类 为各个组件提供app登录信息
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-29
  */
 @Route(path = ServicesConfig.User.LONGING_SERVICE , name = "登录服务")

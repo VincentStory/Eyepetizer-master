@@ -8,7 +8,7 @@ import java.lang.ref.WeakReference;
  * 类描述: 适用于需要加载分页的model
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public abstract class BasePagingModel<T> extends SuperBaseModel<T>

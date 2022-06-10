@@ -2,7 +2,7 @@ apply from: "../module.build.gradle"
 android {
     defaultConfig {
         if (isBuildModule.toBoolean()){
-            applicationId "com.drz.home"
+            applicationId "com.vincent.home"
         }
     }
     //统一资源前缀，规范资源引用

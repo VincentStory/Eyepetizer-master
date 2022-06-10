@@ -8,7 +8,7 @@ import java.lang.ref.WeakReference;
  * 类描述: 通用的基类model
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public abstract class BaseModel<T> extends SuperBaseModel<T>

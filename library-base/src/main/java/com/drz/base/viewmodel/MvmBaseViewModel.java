@@ -13,7 +13,7 @@ import java.lang.ref.WeakReference;
  * 类描述: 管理 v M
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public  abstract class MvmBaseViewModel<V, M extends SuperBaseModel> extends ViewModel

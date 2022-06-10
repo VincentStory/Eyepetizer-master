@@ -6,7 +6,7 @@ package com.drz.base.viewmodel;
  * 类描述: 定义viewModel与 V 的关联
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public interface IMvvmBaseViewModel<V> {

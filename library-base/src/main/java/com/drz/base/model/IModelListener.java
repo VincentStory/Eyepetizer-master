@@ -6,7 +6,7 @@ package com.drz.base.model;
  * 类描述: 通用model
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public interface IModelListener<T> extends IBaseModelListener

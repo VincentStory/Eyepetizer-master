@@ -21,7 +21,7 @@ import com.zhouyou.http.cache.model.CacheMode;
  * 类描述: main组件的业务初始化
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-26
  */
 public class MainModuleInit implements IModuleInit

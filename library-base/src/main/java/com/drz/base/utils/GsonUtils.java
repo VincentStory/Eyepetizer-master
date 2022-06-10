@@ -12,7 +12,7 @@ import java.lang.reflect.Type;
  * 类描述: json解析工具类
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public class GsonUtils

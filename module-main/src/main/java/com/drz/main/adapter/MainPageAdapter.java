@@ -14,7 +14,7 @@ import java.util.List;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-26
  */
 public class MainPageAdapter extends FragmentPagerAdapter {

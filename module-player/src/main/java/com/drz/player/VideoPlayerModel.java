@@ -29,7 +29,7 @@ import io.reactivex.functions.BiFunction;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-20
  */
 public class VideoPlayerModel<T> extends BaseModel<T>

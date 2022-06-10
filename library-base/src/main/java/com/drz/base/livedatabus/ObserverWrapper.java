@@ -8,7 +8,7 @@ import androidx.lifecycle.Observer;
  * 类描述: Observer 包装类
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-07
  */
 public class ObserverWrapper<T> implements Observer<T> {

@@ -28,7 +28,7 @@ import io.reactivex.disposables.Disposable;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-16
  */
 public class RecommendModel<T> extends BasePagingModel<T>

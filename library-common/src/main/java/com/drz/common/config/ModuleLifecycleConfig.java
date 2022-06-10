@@ -11,7 +11,7 @@ import com.drz.common.IModuleInit;
  * 类描述: 作为组件生命周期初始化的配置类,通过反射机制,动态调用每个组件初始化逻辑
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-25
  */
 public class ModuleLifecycleConfig

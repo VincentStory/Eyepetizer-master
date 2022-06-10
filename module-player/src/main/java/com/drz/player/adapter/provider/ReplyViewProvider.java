@@ -19,7 +19,7 @@ import androidx.databinding.DataBindingUtil;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-21
  */
 public class ReplyViewProvider extends BaseItemProvider<BaseCustomViewModel>

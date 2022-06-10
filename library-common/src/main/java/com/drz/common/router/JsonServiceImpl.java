@@ -15,7 +15,7 @@ import java.lang.reflect.Type;
  * SerializationService,并使用@Route注解标注(方便用户自行选择序列化方式)
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-27
  */
 @Route(path = "/video/json")

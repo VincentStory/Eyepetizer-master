@@ -21,7 +21,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
  * 类描述: 社区
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-16
  */
 

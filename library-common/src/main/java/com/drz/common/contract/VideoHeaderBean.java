@@ -9,7 +9,7 @@ import android.os.Parcelable;
  * 类描述: 用于调用视频播放组件时传递信息的契约类
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-21
  */
 public class VideoHeaderBean implements Parcelable

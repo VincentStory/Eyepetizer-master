@@ -9,7 +9,7 @@ import com.drz.base.R;
  * 类描述: 空页面
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public class EmptyCallback extends Callback

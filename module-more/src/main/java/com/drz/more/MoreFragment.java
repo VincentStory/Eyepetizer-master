@@ -21,7 +21,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
  * 类描述: 更多
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-22
  */
 @Route(path = RouterFragmentPath.More.PAGER_MORE)

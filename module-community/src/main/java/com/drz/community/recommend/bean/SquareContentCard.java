@@ -6,7 +6,7 @@ package com.drz.community.recommend.bean;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-17
  */
 public class SquareContentCard  {

@@ -7,7 +7,7 @@
         <import type="com.drz.common.utils.DateTimeUtils"/>
         <variable
             name="viewModel"
-            type="com.drz.home.nominate.bean.viewmodel.FollowCardViewModel" />
+            type="com.vincent.home.nominate.bean.viewmodel.FollowCardViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

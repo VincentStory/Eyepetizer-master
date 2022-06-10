@@ -25,7 +25,7 @@ import com.bumptech.glide.request.transition.Transition;
  * 类描述: 自定义BindingAdapter
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-28
  */
 public class CommonBindingAdapters

@@ -15,7 +15,7 @@ import io.reactivex.disposables.Disposable;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-22
  */
 public class ThemeModel<T> extends BaseModel<T> {

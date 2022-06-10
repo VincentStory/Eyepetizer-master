@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.drz.home.discover.bean.viewmodel.BriefCardViewModel" />
+            type="com.vincent.home.discover.bean.viewmodel.BriefCardViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

@@ -8,7 +8,7 @@ import com.drz.common.contract.BaseCustomViewModel;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-12
  */
 public class VideoCardViewModel extends BaseCustomViewModel

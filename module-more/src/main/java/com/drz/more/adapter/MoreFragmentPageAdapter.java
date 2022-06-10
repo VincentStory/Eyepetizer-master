@@ -15,7 +15,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-16
  */
 public class MoreFragmentPageAdapter extends FragmentPagerAdapter {

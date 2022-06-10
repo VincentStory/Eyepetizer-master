@@ -8,7 +8,7 @@ import com.alibaba.android.arouter.facade.template.IProvider;
  * 类描述: app相关信息
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public interface IAppInfoService extends IProvider

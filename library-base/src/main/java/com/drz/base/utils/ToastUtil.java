@@ -10,7 +10,7 @@ import android.widget.Toast;
  * 类描述: toast显示工具类
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public class ToastUtil

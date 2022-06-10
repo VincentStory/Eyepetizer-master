@@ -6,7 +6,7 @@ package com.drz.base.activity;
  * 类描述: 界面UI显示切换
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-01-27
  */
 public interface IBaseView {

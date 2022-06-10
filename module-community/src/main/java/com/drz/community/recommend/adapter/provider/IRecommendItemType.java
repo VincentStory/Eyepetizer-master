@@ -6,7 +6,7 @@ package com.drz.community.recommend.adapter.provider;
  * 类描述: item类型
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-17
  */
 public interface IRecommendItemType {

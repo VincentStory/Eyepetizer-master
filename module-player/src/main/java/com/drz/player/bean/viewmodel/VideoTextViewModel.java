@@ -9,7 +9,7 @@ import com.drz.common.contract.BaseCustomViewModel;
  * 类描述:
  * <p>
  *
- * @author darryrzhoong
+ * @author wangwenbo
  * @since 2020-02-21
  */
 public class VideoTextViewModel extends BaseCustomViewModel {
