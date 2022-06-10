@@ -16,7 +16,7 @@ public class ModuleLifecycleReflexs
     
     /** main组件库 */
     private static final String MainInit =
-        "com.drz.main.application.MainModuleInit";
+        "com.vincent.main.application.MainModuleInit";
 
     /**用户组件初始化*/
     private static final String UserInit = "com.drz.user.UserModuleInit";

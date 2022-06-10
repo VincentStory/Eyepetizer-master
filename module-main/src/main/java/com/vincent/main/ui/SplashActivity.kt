@@ -1,4 +1,4 @@
-package com.drz.main.ui
+package com.vincent.main.ui
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,8 +6,8 @@ import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
 import com.drz.base.storage.MmkvHelper
 import com.drz.common.adapter.ScreenAutoAdapter
-import com.drz.main.R
-import com.drz.main.ui.MainActivity.Companion.start
+import com.vincent.main.R
+import com.vincent.main.ui.MainActivity.Companion.start
 import com.gyf.immersionbar.BarHide
 import com.gyf.immersionbar.ImmersionBar
 

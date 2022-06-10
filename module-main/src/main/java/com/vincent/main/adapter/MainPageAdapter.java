@@ -1,4 +1,4 @@
-package com.drz.main.adapter;
+package com.vincent.main.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;

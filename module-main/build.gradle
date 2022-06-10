@@ -5,7 +5,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     defaultConfig {
        if (isBuildModule.toBoolean()){
-           applicationId "com.drz.main"
+           applicationId "com.vincent.main"
        }
     }
     //统一资源前缀，规范资源引用

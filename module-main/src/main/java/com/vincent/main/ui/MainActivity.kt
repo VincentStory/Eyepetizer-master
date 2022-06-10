@@ -1,4 +1,4 @@
-package com.drz.main.ui
+package com.vincent.main.ui
 
 import android.content.Context
 import android.content.Intent
@@ -13,10 +13,10 @@ import com.drz.base.viewmodel.IMvvmBaseViewModel
 import com.drz.common.adapter.ScreenAutoAdapter
 import com.drz.common.router.RouterActivityPath
 import com.drz.common.router.RouterFragmentPath
-import com.drz.main.R
-import com.drz.main.adapter.MainPageAdapter
-import com.drz.main.databinding.MainActivityMainBinding
-import com.drz.main.utils.ColorUtils
+import com.vincent.main.R
+import com.vincent.main.adapter.MainPageAdapter
+import com.vincent.main.databinding.MainActivityMainBinding
+import com.vincent.main.utils.ColorUtils
 import com.gyf.immersionbar.ImmersionBar
 import me.majiajie.pagerbottomtabstrip.NavigationController
 

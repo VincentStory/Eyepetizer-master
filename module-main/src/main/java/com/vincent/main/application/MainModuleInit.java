@@ -1,4 +1,4 @@
-package com.drz.main.application;
+package com.vincent.main.application;
 
 import com.blankj.utilcode.util.Utils;
 import com.drz.base.base.BaseApplication;

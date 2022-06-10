@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.drz.main">
+    package="com.vincent.main">
 
     <application
         android:exported="true">
         <activity
-            android:name="com.drz.main.ui.SplashActivity"
+            android:name="com.vincent.main.ui.SplashActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Start">

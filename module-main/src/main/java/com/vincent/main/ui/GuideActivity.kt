@@ -1,4 +1,4 @@
-package com.drz.main.ui
+package com.vincent.main.ui
 
 
 import android.animation.AnimatorSet
@@ -8,9 +8,9 @@ import android.view.View
 import android.view.animation.DecelerateInterpolator
 import android.widget.Toast
 import androidx.core.content.ContextCompat
-import com.drz.main.R
-import com.drz.main.bean.CustomBean
-import com.drz.main.viewholder.CustomPageViewHolder
+import com.vincent.main.R
+import com.vincent.main.bean.CustomBean
+import com.vincent.main.viewholder.CustomPageViewHolder
 import com.gyf.immersionbar.BarHide
 import com.gyf.immersionbar.ImmersionBar
 import com.zhpan.bannerview.BannerViewPager

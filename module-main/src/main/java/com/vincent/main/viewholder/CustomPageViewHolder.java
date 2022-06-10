@@ -1,11 +1,11 @@
-package com.drz.main.viewholder;
+package com.vincent.main.viewholder;
 
 import android.animation.ObjectAnimator;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.drz.main.R;
-import com.drz.main.bean.CustomBean;
+import com.vincent.main.R;
+import com.vincent.main.bean.CustomBean;
 import com.zhpan.bannerview.holder.ViewHolder;
 
 /**

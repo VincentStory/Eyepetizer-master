@@ -1,4 +1,4 @@
-package com.drz.main.bean
+package com.vincent.main.bean
 
 /**
  * 应用模块:

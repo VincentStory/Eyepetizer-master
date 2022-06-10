@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.drz.main.views.CustomNoTouchViewPager
+        <com.vincent.main.views.CustomNoTouchViewPager
             android:id="@+id/cv_content_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -28,7 +28,7 @@
             android:layout_height="56dp"
             android:layout_gravity="bottom"
             android:background="@android:color/white"
-            app:layout_behavior="com.drz.main.behavior.BottomNavigationBehavior"
+            app:layout_behavior="com.vincent.main.behavior.BottomNavigationBehavior"
             />
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
