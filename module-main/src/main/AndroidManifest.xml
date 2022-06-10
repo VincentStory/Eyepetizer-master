@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vincent.myapplication">
+    package="com.drz.main">
 
-    <application>
-
+    <application
+        android:exported="true">
         <activity
-            android:name="com.vincent.main.ui.SplashActivity"
+            android:name="com.drz.main.ui.SplashActivity"
             android:exported="true"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.Start">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
-
-
         <activity
-            android:name="com.vincent.main.ui.MainActivity"
-            android:exported="true"
-            android:screenOrientation="portrait">
-
-        </activity>
-        <activity android:name="com.vincent.main.ui.GuideActivity" />
-
-
+            android:name=".ui.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".ui.GuideActivity" />
     </application>
 
 </manifest>

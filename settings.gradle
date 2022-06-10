@@ -1,13 +1,2 @@
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
-    }
-}
-rootProject.name = "Eyepetizer-master"
-include ':app'
-include ':module-main'
-include ':library-base'
-include ':library-common'
+include ':app', ':library-base', ':library-common',':library-servicemanager', ':library-network', ':module-main', ':module-home', ':module-community', ':library-video', ':module-more', ':module-player', ':module-user'
+rootProject.name='Eyepetizer-master'
