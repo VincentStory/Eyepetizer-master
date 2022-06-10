@@ -12,14 +12,10 @@
 | ![app_08.png](https://upload-images.jianshu.io/upload_images/5549640-2b5e338fb31a0c25.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/260) |  ![app_09.png](https://upload-images.jianshu.io/upload_images/5549640-6950f3f3ed412191.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/260) | ![app_10.png](https://upload-images.jianshu.io/upload_images/5549640-58b719bb47a3dbfc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/260) |
 
 
-图片加载不出来？附上[简书地址](https://www.jianshu.com/p/1f6b0cfd4606)
 
 ## 项目结构
 该开源项目采用组件化的方式开发，使用MVVM + AndroidX + jetpack 组件为基本架构进行开发。
 
-- 项目结构图
-
-![app_12.png](https://upload-images.jianshu.io/upload_images/5549640-9fcdc7803944ba5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - app 架构图
 
@@ -158,24 +154,12 @@ mmkv 是腾讯开源的一个轻量级的存储库，用来代替SharedPreferenc
 
 ## aok下载
 
-![安装密码：darryrzhong](https://upload-images.jianshu.io/upload_images/5549640-50269b69941dd6c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
--  [安装密码 ： darryrzhong ](https://www.pgyer.com/Pedw)
+链接: https://pan.baidu.com/s/1NDhRKZ7PlANF3vet3-bdNA 提取码: fnt4
 
 
 ## 项目地址 
-- # **[Android-MvvmComponent-App](https://github.com/darryrzhong/Android-MvvmComponent-App)**
+- # **[Eyepetizer-master](https://github.com/VincentStory/Eyepetizer-master)**
 
-
-欢迎关注作者[darryrzhong](http://www.darryrzhong.xyz),更多干货等你来拿哟.
-
-### 请赏个小红心！因为你的鼓励是我写作的最大动力！
->更多精彩文章请关注
-- [个人博客:darryrzhong](http://www.darryrzhong.xyz)
-- [掘金](https://juejin.im/user/5a6c3b19f265da3e49804988)
-- [简书](https://www.jianshu.com/users/b7fdf53ec0b9/timeline)
-- [SegmentFault](https://segmentfault.com/u/darryrzhong_5ac59892a5882/articles)
-- [慕课网手记](https://www.imooc.com/u/6733207)
 
 
 
