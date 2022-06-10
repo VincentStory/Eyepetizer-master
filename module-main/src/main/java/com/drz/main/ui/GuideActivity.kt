@@ -79,7 +79,7 @@ class GuideActivity : BaseDataActivity(), HolderCreator<CustomPageViewHolder> {
     }
 
     fun onClick(view: View) {
-        MainActivity.start(this)
+        MainActivity.Companion.start(this)
         finish()
     }
 

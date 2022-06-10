@@ -7,12 +7,9 @@ import android.os.Handler;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.drz.base.base.BaseApplication;
 import com.drz.base.storage.MmkvHelper;
 import com.drz.common.adapter.ScreenAutoAdapter;
-import com.drz.common.config.ModuleLifecycleConfig;
 import com.drz.main.R;
-import com.drz.main.ui.MainActivity;
 import com.gyf.immersionbar.BarHide;
 import com.gyf.immersionbar.ImmersionBar;
 
@@ -45,7 +42,7 @@ public class SplashActivity extends AppCompatActivity {
         if (MmkvHelper.getInstance().getMmkv().decodeBool("first",true)){
             startActivity(new Intent(this, GuideActivity.class));
         }else {
-            MainActivity.start(this);
+            MainActivity.Companion.start(this);
         }
 
     }
