@@ -29,7 +29,7 @@ import java.util.List;
  * 类描述:
  * <p>
  *
- * @author wangwenbo
+ * @author darryrzhoong
  * @since 2020-02-28
  */
 @Route(path = RouterFragmentPath.User.PAGER_USER)
@@ -67,7 +67,7 @@ public class UserFragment
     }
 
     private void start(Context context){
-        startActivity(new Intent(context,LoginActivity.class));
+//        startActivity(new Intent(context,LoginActivity.class));
     }
     
     private void initView()

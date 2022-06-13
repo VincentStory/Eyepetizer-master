@@ -53,7 +53,7 @@ public class VideoCardProvider extends BaseItemProvider<BaseCustomViewModel>
         {
             return;
         }
-        HomeItemVideoCardViewBinding binding = baseViewHolder.getBinding();
+        HomeItemVideoCardViewBinding binding = DataBindingUtil.getBinding(baseViewHolder.itemView);
         if (binding != null)
         {
             VideoCardViewModel cardViewModel =
