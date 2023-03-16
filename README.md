@@ -148,7 +148,7 @@ mmkv 是腾讯开源的一个轻量级的存储库，用来代替SharedPreferenc
 |-|-|-|-|
 |videoId|当前播放视频的id，从跳转页面视频item中获取|是|无|
 
-## aok下载
+## apk下载
 
 链接: https://pan.baidu.com/s/11m8cfgJ2zGoZ7rLMXLRuHA 提取码: j6f4
 
